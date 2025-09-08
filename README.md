@@ -110,11 +110,13 @@ The Power BI dashboards include **interactive filter panels** to enable dynamic 
 
 
 ## 📌 Key Insights
-- Revenue is heavily **concentrated** among a few states  
-- **Seasonality** significantly impacts both revenue and profitability  
-- **Wholesale channel** contributes the largest share of revenue, while **Export channels** are more stable in margins  
-- A handful of customers drive a large portion of revenue, creating **risk**  
-- **West and South** regions are outperforming others, while opportunities exist in underrepresented regions  
+
+- **Pronounced Seasonality:** **January** revenues average **$124 M**, dipping to **$95 M** in **April**.
+- **SKU Concentration:** **Products 26 & 25** together drive ~25 % of total sales.
+- **Channel Trade‑Off:** **Wholesale** captures **54%** of volume, **Export** leads with ~38 % average margin.
+- **Geographic Dominance:** California alone logs 7.6K orders **($230 M)**, **West and South** regions are outperforming others, while opportunities exist in underrepresented regions
+- **Aibox Company** and State Ltd are the most valuable customers in terms of Revenue.
+ 
 
 ---
 

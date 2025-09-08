@@ -36,7 +36,6 @@ This project aims to:
 ---
 
 ## 📂 Folder Structure
-```text
 ├── data/                    
 │   └── processed/
 ├── notebook/              
@@ -110,7 +109,7 @@ The Power BI dashboards include **interactive filter panels** to enable dynamic 
 
 
 ## 📌 Key Insights
-- Revenue is heavily **concentrated** among a few SKUs and states  
+- Revenue is heavily **concentrated** among a few states  
 - **Seasonality** significantly impacts both revenue and profitability  
 - **Wholesale channel** contributes the largest share of revenue, while **Export channels** are more stable in margins  
 - A handful of customers drive a large portion of revenue, creating **risk**  

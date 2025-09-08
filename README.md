@@ -36,6 +36,7 @@ This project aims to:
 ---
 
 ## 📂 Folder Structure
+```
 ├── data/                    
 │   └── processed/
 ├── notebook/              
@@ -48,7 +49,7 @@ This project aims to:
 │   └── 3_geographic_customer.png
 ├── README.md               
 └── LICENSE                 
-
+```
 
 
 ## 🌐 Live Dashboard
